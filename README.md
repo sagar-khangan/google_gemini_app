@@ -7,7 +7,9 @@
 3. `pip install -r requirements.txt`
 
 ##### Run Text Model
-`streamlit src/text.py`
+`streamlit run src/text.py`
 
 ##### Run Vision Model
-`streamlit src/vision.py`
+`streamlit run src/vision.py`
+
+Open `http://localhost:8501` on browser
