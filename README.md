@@ -12,6 +12,7 @@
 ##### Run Vision Model
 `streamlit run src/basic/vision.py`
 
-
 ##### Run Q&A Chatbot
 `streamlit run src/qachat/main.py`
+
+Open `http://localhost:8501` on browser
